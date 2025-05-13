@@ -40,7 +40,7 @@ Red Store/├── account.html├── cart.html├── index.html├──
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd your-repository-name
+    cd Red-Store
     ```
 
 3.  **Open the files:**
