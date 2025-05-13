@@ -34,9 +34,8 @@ Red Store/├── account.html├── cart.html├── index.html├──
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone https://github.com/abdullahjaved40/Red-Store
     ```
-    (Replace `your-username` and `your-repository-name` with your actual GitHub username and repository name.)
 
 2.  **Navigate to the project directory:**
     ```bash
@@ -66,9 +65,9 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Author
 
-Your Name
+Abdullah Javeid
 
 ## License
 
-[Specify the license] (e.g., MIT, GPL, Apache 2.0)
+NO LIcence
 
