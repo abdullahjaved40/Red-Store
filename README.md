@@ -69,5 +69,5 @@ Abdullah Javeid
 
 ## License
 
-NO LIcence
+MIT LIcence
 
